@@ -1,3 +1,7 @@
+// 13. Transpose of a matrix
+
+// Write a JAVA program to display transpose of a given matrix. 
+
 import java.util.Scanner;
 public class Transpose {
   public static void main(String[] args) {
