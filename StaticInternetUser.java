@@ -1,3 +1,7 @@
+// 26. Static variable, static functions and static block
+// Write a JAVA program that creates a class called 'InternetUsers' for browsers of a college, which contain two static variables 'count'  with initial value=0 to keep track of number of internet users and  'happyCusfomers'. It also contain a final variable MAXTIME=2 hrs and string variable to store login name. class also contains a static method 'show' to display number of internet users and happy customers and a non static function 'compute' to increment and display the name of  happyCustomers if customer is happy. Also create a static block in your program to display a welcome message like 'Let's start browsing' and display maximum allotted time for browsing, it also initializes the static variable happyCustomers =count.
+
+
 public class StaticInternetUser {
 
   //static variables

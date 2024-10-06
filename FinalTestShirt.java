@@ -1,8 +1,7 @@
+// 27. Class and final variable 
+// Create  a class named  'Shirt'  with  data  fields  for  collar size  and  sleeve  length.  Include a constructor that takes arguments for each field. Also include a String class variable named material and initialize it to "cotton". Write a program named TestShirt to instantiate three Shirt objects with different collor sizes and sleeve lengths and then display all the data, including material, for each shirt. (hint: cotton is a final variable)
 
 import java.util.Scanner;
-
-
-
 
 class Shirt{
   double collarSize;  

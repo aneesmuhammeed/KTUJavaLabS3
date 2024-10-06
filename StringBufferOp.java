@@ -1,3 +1,10 @@
+// 22. Write a menu driven JAVA program to do the following string operations using ‘String’ and
+// ‘stringBuffer’ class.
+// (a) Insert a string in another string at a given position
+// (b) Modify a character at a given position
+// (c) Append a string
+
+
 import java.util.Scanner;
 
 public class StringBufferOp {

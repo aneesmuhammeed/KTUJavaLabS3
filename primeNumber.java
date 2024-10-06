@@ -1,9 +1,8 @@
-
-import java.util.Scanner;
-
 // 11. Prime  number or not
 
 // Write a Java program to check whether a given number is prime or not.
+
+import java.util.Scanner;
 
 class PrimeNumber {
   public static void main(String[] args) {
