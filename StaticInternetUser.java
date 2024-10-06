@@ -7,6 +7,7 @@ public class StaticInternetUser {
   final static int MAXTIME = 2; 
   String loginName;
 
+  //static block to display welcome messages
   static {
       System.out.println("Let's start browsing!");
       System.out.println("Maximum allotted time for browsing: " + MAXTIME + " hours");
