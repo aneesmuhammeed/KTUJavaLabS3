@@ -1,8 +1,6 @@
-
-import java.util.Scanner;
-
 // 20. Write a Java program to reverse a given string.
 
+import java.util.Scanner;
 public class StringReverse {
   public static void main(String[] args) {
     Scanner sc =new Scanner(System.in);
